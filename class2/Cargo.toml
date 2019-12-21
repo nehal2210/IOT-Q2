@@ -1,0 +1,7 @@
+[package]
+name = "class2"
+version = "0.1.0"
+authors = ["Nehal Ahmed <gatshabz221097@gmail.com>"]
+edition = "2018"
+
+[dependencies]
